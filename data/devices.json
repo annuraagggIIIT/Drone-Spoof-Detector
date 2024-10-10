@@ -1,0 +1,19 @@
+[
+    {
+      "droneID": "drone123",
+      "location": {
+        "latitude": 40.712776,
+        "longitude": -74.005974
+      },
+      "timestamp": "2024-10-10T10:00:00Z"
+    },
+    {
+      "droneID": "drone123",
+      "location": {
+        "latitude": 40.878113,
+        "longitude": -74.009799
+      },
+      "timestamp": "2024-10-10T10:22:00Z"
+    }
+  ]
+  
